@@ -1,0 +1,10 @@
+Criar seguintes imagens:
+- nutrition.jpg
+- marathon.jpg
+- workout.jpg
+- hiit.jpg
+- plant-based.jpg
+- warmup.jpg
+- strength.jpg
+- recovery.jpg
+- yoga.jpg
